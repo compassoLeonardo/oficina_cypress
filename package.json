@@ -1,0 +1,29 @@
+{
+  "name": "oficina_cypress",
+  "version": "1.0.0",
+  "description": "Código para ser utilizado na oficina de Cypress do iStudio de Quality and Test Automation da Compass.UOL",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compassoLeonardo/oficina_cypress.git"
+  },
+  "keywords": [
+    "Cypress",
+    "Node",
+    "automation",
+    "qa",
+    "compass.uol"
+  ],
+  "author": "Leonardo Pelegrini Kartabil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/compassoLeonardo/oficina_cypress/issues"
+  },
+  "homepage": "https://github.com/compassoLeonardo/oficina_cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.4.0"
+  }
+}
