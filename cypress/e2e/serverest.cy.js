@@ -11,7 +11,7 @@ beforeEach('Deve logar antes de cada caso de teste', () => {
 
 })
 
-it('Deve salvar a lista de usuários cadastrados e validar se userToRegister foi cadastrado', () => {
+it('Deve acessar a lista de usuários, validar a URL e o usuário userRegistered', () => {
 
     var userRegistered = "Fulano da Silva"
 
