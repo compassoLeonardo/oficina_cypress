@@ -13,10 +13,10 @@
 ---
 
 > Para download, instalação e execução do projeto siga o passo a passo:
-1. Realize o clone deste repositório utilizando o GIT;
-2. Utilizando o terminal de comando, apontado para a pasta do clone do repositório, os seguindos comandos:
-`npm install`
+* Realize o clone deste repositório utilizando o GIT;
+* Utilizando o terminal de comando, apontado para a pasta do clone do repositório, os seguindos comandos:
+`npm install` <br>
 `npm run test`
 
-Para executar de forma *headless*, ou seja, sem que a tela gráfica seja exibida, execute o comando
+* Para executar de forma *headless*, ou seja, sem que a tela gráfica seja exibida, execute o comando: <br>
 `npm run test:headless`
