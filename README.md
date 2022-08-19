@@ -8,4 +8,4 @@
 
 > ### Esperamos que esta oficina tenha sido proveitosa para você e que tenha te inspirado a estudar mais sobre automações de teste!
 
-#### At.te, Leonardo Kartabil (leonardo.kartabil@compasso.com.br)
+#### At.te, Leonardo Kartabil ${leonardo.kartabil@compasso.com.br}
