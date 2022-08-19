@@ -4,7 +4,8 @@
   "description": "Código para ser utilizado na oficina de Cypress do iStudio de Quality and Test Automation da Compass.UOL",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open",
+    "test:headless": "cypress run"
   },
   "repository": {
     "type": "git",
