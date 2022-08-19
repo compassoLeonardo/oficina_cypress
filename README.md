@@ -1,16 +1,14 @@
 # oficina_cypress
 
-## Exercícios: 
+## Olá Compasser!
 
-### Parte 1 
-* Criar um request para tentar cadastrar um novo usuário, porém com dados inválidos. 
-* Criar um request para tentar logar na aplicação com um usuário que não exista. 
+### Este é o repositório onde armazenamos o código da oficina para introdução a automação de testes com Cypress
+<br>
+#### Aqui você encontra a solução para todos os exercícios da oficina e alguns casos de teste extras como cadastro e exclusão de produtos pela api serverest.dev
+<br>
+#### Sinta-se a vontade para nos dar seu feedback sobre a oficina, abrir issues ou nos encaminhar suas dúvidas!
+<br>
+#### Esperamos que esta oficina tenha sido proveitosa para você e que tenha te inspirado a estudar mais sobre automações de teste!
+<br>
 
-### Parte 2 
-* Criar um cenário de login com dados inválidos (será reaproveitado grande parte do login ok). 
-
-### Parte 3 
-* Criar um cenário de cadastro de produtos, com as premissas: 
-* Imagem não é mandatória; 
-* Precisa reaproveitar o fluxo de login com um usuário administrador. 
-* [Se sobrar tempo] Criar cenário de cadastro de produtos por API 
+At.te, Leonardo Kartabil (leonardo.kartabil@compasso.com.br)
