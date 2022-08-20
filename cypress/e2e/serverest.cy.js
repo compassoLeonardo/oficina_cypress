@@ -36,5 +36,3 @@ it.only('Deve cadastrar um novo produto através do front.serverest', () => {
     cy.get('[data-testid="quantity"]').type(2)
     cy.get('[data-testid="cadastarProdutos"]').click()
 })
-
-//nome, preço, descrição, quantidade
