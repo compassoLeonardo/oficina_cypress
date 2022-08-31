@@ -1,4 +1,4 @@
-# Olá Compasser!
+# Olá QA!
 
 > ### Este é o repositório onde armazenamos o código da oficina para introdução a automação de testes com Cypress.
 
@@ -20,3 +20,17 @@
 
 * Para executar de forma *headless*, ou seja, sem que a tela gráfica seja exibida, execute o comando: <br>
 `npm run test:headless`
+
+---
+
+## Caso você queira desenvolver mais casos de teste:
+### Front-end:
+* Validar se todos os botões da página home são clicáveis;
+* Validar se o produto cadastrado está presente na lista de produtos;
+* Cadastrar usuário dinâmico e validar se ele está presente na lista de usuários.
+### APIs:
+* Buscar id de produto e cadastrar um carrinho (deve estar logado)
+* Alterar as informações de um produto através do método PUT id
+
+
+
