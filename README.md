@@ -14,7 +14,7 @@
 
 ## Para download, instalação e execução do projeto siga o passo a passo:
 * Realize o clone deste repositório utilizando o GIT ou realize o download do arquivo zip pelo botão verde "code";
-* Utilizando o terminal de comando, apontado para a pasta do clone do repositório, execute os seguindos comandos: <br>
+* Utilizando o terminal de comando, apontado para a pasta do clone do repositório, execute os seguintes comandos: <br>
 `npm install` <br>
 `npm run test`
 
